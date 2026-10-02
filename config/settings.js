@@ -62,10 +62,12 @@ const GALLERY_PHOTOS = [
    Setiap string adalah satu paragraf.
    Bisa ditambah atau dikurangi paragrafnya.                       */
 const LETTER_PARAGRAPHS = [
-  "Ihappy birthday! 🤍 hari ini adalah hari spesial karena kamu bertambah usia. semoga di umur kamu yang baru ini, Allah selalu kasih kesehatan, kebahagiaan, ketenangan hati, rezeki yang luas, dan mempermudah setiap langkah yang kamu jalanin. semoga semua doa, harapan, dan hal-hal yang selama ini kamu perjuangin bisa satu per satu menjadi kenyataan. honestly, i hope this new chapter brings you a lot of good things.",
-  "terima kasih yaa udah jadi teman yang baik selama ini. makasih juga udah mau berbagi cerita, tawa, dan berbagai pengalaman bareng. semoga di umur yang baru ini kamu makin dewasa, makin kuat, dan makin bijak dalam menghadapi berbagai hal. kalau suatu hari kamu lagi capek, lagi banyak pikiran, atau keadaan lagi ga sesuai harapan, jangan lupa buat istirahat dan jangan terlalu keras sama diri sendiri.",
-  "di hari ulang tahun kamu ini, aku cuma berharap semoga kamu selalu dikelilingi hal-hal baik dan orang-orang yang selalu support kamu. semoga semua usaha yang lagi kamu jalanin sekarang bisa memberikan hasil yang sesuai dengan apa yang kamu harapkan. keep going, keep growing, and don't give up on the things you're working for.",
-  "sekali lagi, happy birthday! 🎉 semoga tahun ini membawa lebih banyak pengalaman baru, kesempatan baik, dan pencapaian yang bisa kamu banggakan. whatever happens in the future, semoga kamu selalu punya alasan buat tersenyum dan tetap menikmati setiap proses yang kamu lewatin. have a great birthday and enjoy your special day! 🤍",
+  "As you step into another year of your life, I hope you never forget just how strong you are. You’ve been through so much, and somehow, you still find a way to keep going. I hope you know that, in itself, is something to be proud of.",
+  "I’m genuinely so proud of you. I see how hard you try, how patient you are, and how you keep going even on days when things feel heavy. Maybe you don’t always notice your own progress, but I do. And I hope you know that all those little efforts mean more than you realize.",
+  "Whenever you feel tired, lost, or unsure of yourself, I hope you take a moment to look back and see how far you’ve already come. You don’t have to have everything figured out. Take your time, move at your own pace, and remember that even the smallest steps forward still matter.",
+  "On your birthday, I pray that life becomes a little gentler with you. I hope you’re surrounded by happiness, given more reasons to smile, and that good things find their way to you at the right time. Most of all, I hope you’re always protected and guided wherever life takes you.",
+  "Please keep going, okay? You’re doing better than you think, and I hope you never forget that there’s someone who sees your efforts and will always be proud of you.",
+  "Happy birthday. You deserve all the good things that are coming your way. 🤍",
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
